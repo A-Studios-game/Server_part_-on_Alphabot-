@@ -1,1 +1,2 @@
 # Server_part_-on_Alphabot-
+Tale repository è destinata al funzonamento del alphabot (robot) che, connesso alla stessa rete del computer, riceverà dati dal muse e a seconda del livello di concentrazione svolgerà determinate azioni: nel momento che il paziente rimane concetrato il robot prosegue dritto. Se è sconcentrato, molto probabilmente per osservare il paesaggio, a seconda del movimento della testa il muse rileverà lo spostamento e verrà inviato via socket al robot che compierà le stesse azioni (movimento a destra o a sinistra).
